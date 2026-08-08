@@ -23,4 +23,7 @@ Founder of **[Lohabila Systems](https://github.com/KedarBNikhil/LohabilaBackendP
 
 ## 📫 Reach me
 
+**LinkedIN**
+[www.linkedin.com/in/kedar-nikhil-83b3282a7]
+
 Based in India · Open to backup/storage infra work and collaboration on MSP tooling.
